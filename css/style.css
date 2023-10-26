@@ -1,1 +1,12 @@
-. 
+/* Comentarios en css*/
+
+
+/* Como trabajar con un css cuando son Class = */
+#lista{
+    background-color: aquamarine;
+}
+
+/* Como trabajar con un css cuando son ID = */
+#encabezado{
+
+}
