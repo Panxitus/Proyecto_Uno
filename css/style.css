@@ -1,13 +1,29 @@
 /* Comentarios en css*/
 
-
-/* Como trabajar con un css cuando son Class = */
-#lista{
-    background-color: aquamarine;
+/*Botones con estilo*/
+#btn{
+background-color: red;
+color: white;
+width: 120px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+padding: 10 px;
+margin: auto;
+font-weight: bold;
+text-transform: uppercase;
+border: 3px solid;
+border-radius: 5px;
+cursor: pointer;
 }
 
-/* Como trabajar con un css cuando son ID = */
-#encabezado
-{
+#btn:hover{
+background-color: white;
+color: var(--color-primario);
+}
 
+#logo
+{
+text-align: center;
+border-radius: 5px;
+background-color: red;
 }
